@@ -1,6 +1,6 @@
-<h1>Hi, I'm Denis! <br/><a></a><a> Cybersecurity Professional </a></h1>
+<h1>Hi, I'm Denis! <br/><a></a><a> Cybersecurity Professional, Programmer, IT support Specialist, IT Technician</a></h1>
 
-<h2>👨‍💻 Cyber Security Project, Programmer, IT support Specialist, IT Technician:</h2>
+<h2>👨‍💻 Cyber Security Project:</h2>
 
 - <b>SIEM Dashboard Setup and Configuration (Elastic Cloud)</b>
   - [Elastic Cloud](https://github.com/ByteBanterDK/ElasticCloud)
