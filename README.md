@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denis! <br/><a>Programmer</a>, <a> Cybersecurity Professional, and YouTuber </a></h1>
+<h1>Hi, I'm Denis! <br/><a>Programmer</a>, <a> Cybersecurity Professional, YouTuber </a></h1>
 
 <h2>👨‍💻 Cyber Security Project:</h2>
 
