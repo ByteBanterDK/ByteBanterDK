@@ -5,7 +5,7 @@
 - <b>SIEM Dashboard Setup and Configuration (Elastic Cloud)</b>
   - [Elastic Cloud](https://github.com/ByteBanterDK/ElasticCloud)
 - <b>Network Infrastructure Setup and Security </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Network Setup Security](https://github.com/ByteBanterDK/network-setup-security) <b><i></b></i>
 - <b>Security Scans and Error Resolution</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
