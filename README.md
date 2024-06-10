@@ -7,7 +7,7 @@
 - <b>Network Infrastructure Setup and Security </b>
   - [Network Setup Security](https://github.com/ByteBanterDK/network-setup-security) <b><i></b></i>
 - <b>Ethical Hacking and Linux Proficiency</b>
-  - [Nmap)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Nmap)](https://github.com/joshmadakor1/EncrypterPOC)<b>
 (https://github.com/joshmadakor1/DecrypterPOC)
   - [Wireshark](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Active Directory Configuration</b>
