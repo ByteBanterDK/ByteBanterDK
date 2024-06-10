@@ -11,7 +11,7 @@
   - [Wireshark](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Active Directory Configuration</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - <b>Windows Firewall Confiuration</b>
+- <b>Windows Firewall Confiuration</b>
    -[Security setup Firewall]
 <h2>👨‍💻 System Maintenace and Diagnostics:</h2>
 <ul><li><b>Windows Memory Diagnostic Scan</b>: 
