@@ -6,14 +6,22 @@
   - [Elastic Cloud](https://github.com/ByteBanterDK/ElasticCloud)
 - <b>Network Infrastructure Setup and Security </b>
   - [Network Setup Security](https://github.com/ByteBanterDK/network-setup-security) <b><i></b></i>
- <b>Network Trouble shooting and Optimisation</b>
 - <b>Ethical Hacking and Linux Proficiency</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Nmap)](https://github.com/joshmadakor1/EncrypterPOC)
+(https://github.com/joshmadakor1/DecrypterPOC)
+  - [Wireshark](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Active Directory Configuration</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
+  - <b>Windows Firewall Confiuration</b>
+   -[Security setup Firewall]
+<h2>👨‍💻 System Maintenace and Diagnostics:</h2>
+<ul><li><b>Windows Memory Diagnostic Scan</b>: 
+</li>
+      <li><b>System File Checker (sfc /scannow)</b>: files.</li>
+      <li><b>DISM Commands</b>: Explored and utilized various DISM commands for system image maintenance and repair.</li>
+    </ul>
+  </li>
+</ul>
 <h2>👨‍💻 System and Device Confiuration Projects:</h2>
 - <b>PC Performance Optimisation</b>
 - <b>Iphone Performance Optimisation</b>
