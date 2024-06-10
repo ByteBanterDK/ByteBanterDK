@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denis! <br/><a>Programmer</a>, <a> Cybersecurity Professional, YouTuber </a></h1>
+<h1>Hi, I'm Denis! <br/><a></a>, <a> Cybersecurity Professional </a></h1>
 
 <h2>👨‍💻 Cyber Security Project:</h2>
 
@@ -6,11 +6,6 @@
   - [Elastic Cloud](https://github.com/ByteBanterDK/ElasticCloud)
 - <b>Network Infrastructure Setup and Security </b>
   - [Network Setup Security](https://github.com/ByteBanterDK/network-setup-security) <b><i></b></i>
-- <b>Security Scans and Error Resolution</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
  <b>Network Trouble shooting and Optimisation</b>
 - <b>Ethical Hacking and Linux Proficiency</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
