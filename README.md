@@ -22,7 +22,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ByteBanterDK | Gmail" width="22px" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png"/>[TechExpertDK@gmail.com]
+[<img align="left" alt="ByteBanterDK | Gmail" width="22px" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png"/>TechExpertDK@gmail.com]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
