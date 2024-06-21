@@ -13,7 +13,7 @@
   - [Windows Server 2019](https://github.com/ByteBanterDK/Windows-Server-2019)
 <h2>👨‍💻 System Maintenace and Diagnostics Projects:</h2>
 - <b>System File Checker (sfc /scannow)</b>: Used to scan and repair corrupted system files.
-  - [SFC](https://github.com/ByteBanterDK/SFC)
+  - [SFC][https://github.com/ByteBanterDK/SFC]
 - <b>DISM Commands</b>: Explored and utilized various DISM commands for system image maintenance and repair.
   - [DISM](https://github.com/YourRepositoryNameHere/DISM)
 - <b>Windows Full Security Scan</b>: Performed comprehensive security scans on Windows systems using built-in security tools.
