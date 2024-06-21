@@ -28,7 +28,7 @@
 
 <b><i></b></i>
 - <b>PC Performance Optimisation</b>:
-  - [Windows](https://github.com/ByteBanterDK/System-Performance-Tunin)
+  - [Windows](https://github.com/ByteBanterDK/System-Performance-Tuning)
 - <b>iPhone Performance Optimisation</b>:
   - [Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
 
