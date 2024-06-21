@@ -26,8 +26,8 @@
 - <b>iPhone Performance Optimization</b>: [Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
 
 <h2>👨‍💻 System Maintenance and Diagnostics Projects:</h2>
- <b>System File Checker (sfc /scannow)</b>:</b>
-  - [SFC](https://github.com/ByteBanterDK/SFC)
+  <b>System File Checker </b>
+  - [SFC /scannow](https://github.com/ByteBanterDK/SFC)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -41,6 +41,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+    
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="ByteBanterDK | Gmail" width="22px" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png"/>TechExpertDK@gmail.com
