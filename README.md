@@ -15,8 +15,8 @@
 <h2>👨‍💻 System Maintenance and Diagnostics Projects:</h2>
 
 <b><i></b></i>
--<b>System File Checker</b>:
-  - [SFC](https://github.com/ByteBanterDK/SFC)
+- <b>System File Checker</b>:
+  - [SFC](https://github.com/YourRepositoryNameHere/DISM)
 - <b>DISM Commands</b>:
   - [DISM](https://github.com/YourRepositoryNameHere/DISM)
 - <b>Windows Full Security Scan</b>:
