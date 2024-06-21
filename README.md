@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denis! <br/><a></a><a> Cybersecurity Professional, Programmer, IT support Specialist, IT Technician</a></h1>
+<h1>Hi, I'm Denis! <br/><a></a><a> Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security Project:</h2>
 
@@ -7,25 +7,24 @@
 - <b>Network Infrastructure Setup and Security </b>
   - [Network Setup Security](https://github.com/ByteBanterDK/network-setup-security) <b><i></b></i>
 - <b>Ethical Hacking and Linux Proficiency</b>
-  - [Nmap](https://github.com/joshmadakor1/EncrypterPOC)<b>
-  - [Wireshark](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Nmap](https://github.com/ByteBanterDK/Nmap-Explorer)<b>
+  - [Wireshark](https://github.com/ByteBanterDK/Wireshark-Packet-Analysis)
 - <b>Active Directory Configuration</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Windows Firewall Confiuration</b>
--[Security setup Firewall]
+  - [Windows Server 2019](https://github.com/ByteBanterDK/Windows-Server-2019)
 <h2>👨‍💻 System Maintenace and Diagnostics Projects:</h2>
-<ul><li><b>Windows Memory Diagnostic Scan</b>: 
-</li>
-      <li><b>System File Checker (sfc /scannow)</b>: files.</li>
-      <li><b>DISM Commands</b>: Explored and utilized various DISM commands for system image maintenance and repair.</li>
-    </ul>
-  </li>
-</ul>
+- <b>System File Checker (sfc /scannow)</b>: Used to scan and repair corrupted system files.
+  - [SFC](https://github.com/ByteBanterDK/SFC)
+- <b>DISM Commands</b>: Explored and utilized various DISM commands for system image maintenance and repair.
+  - [DISM](https://github.com/YourRepositoryNameHere/DISM)
+- <b>Windows Full Security Scan</b>: Performed comprehensive security scans on Windows systems using built-in security tools.
+  - [Windows Security Scan](https://github.com/ByteBanterDK/WinFullScan)
+- <b>Microsoft Malicious Software Removal Tool (MRT)</b>: Conducted scans and removal of malicious software from Windows systems using MRT.
+  - [MRT](https://github.com/ByteBanterDK/SecureScanM)
 <h2>👨‍💻 System and Device Confiuration Projects:</h2>
 - <b>PC Performance Optimisation</b>
+ -[Windows](https://github.com/ByteBanterDK/System-Performance-Tuning)
 - <b>Iphone Performance Optimisation</b>
- <b>PC Assembly and Maintenance</b>
- <b></b>
+ -[Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
 
 <h2> 🤳 Connect with me:</h2>
 
