@@ -11,20 +11,20 @@
   - [Wireshark](https://github.com/ByteBanterDK/Wireshark-Packet-Analysis)
 - <b>Active Directory Configuration</b>
   - [Windows Server 2019](https://github.com/ByteBanterDK/Windows-Server-2019)
-<h2>👨‍💻 System Maintenace and Diagnostics Projects:</h2>
+<h2>👨‍💻 System Maintenance and Diagnostics Projects:</h2>
 - <b>System File Checker (sfc /scannow)</b>: Used to scan and repair corrupted system files.
-  - [SFC][https://github.com/ByteBanterDK/SFC]
+  - [SFC](https://github.com/ByteBanterDK/SFC)
 - <b>DISM Commands</b>: Explored and utilized various DISM commands for system image maintenance and repair.
   - [DISM](https://github.com/YourRepositoryNameHere/DISM)
 - <b>Windows Full Security Scan</b>: Performed comprehensive security scans on Windows systems using built-in security tools.
   - [Windows Security Scan](https://github.com/ByteBanterDK/WinFullScan)
 - <b>Microsoft Malicious Software Removal Tool (MRT)</b>: Conducted scans and removal of malicious software from Windows systems using MRT.
   - [MRT](https://github.com/ByteBanterDK/SecureScanM)
-<h2>👨‍💻 System and Device Confiuration Projects:</h2>
-- <b>PC Performance Optimisation</b>
- -[Windows](https://github.com/ByteBanterDK/System-Performance-Tuning)
-- <b>Iphone Performance Optimisation</b>
- -[Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
+
+<h2>👨‍💻 System and Device Configuration Projects:</h2>
+- <b>PC Performance Optimization</b>: [Windows](https://github.com/ByteBanterDK/System-Performance-Tuning)
+- <b>iPhone Performance Optimization</b>: [Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
+
 
 <h2> 🤳 Connect with me:</h2>
 
