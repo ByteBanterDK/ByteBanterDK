@@ -13,16 +13,14 @@
   - [Windows Server 2019](https://github.com/ByteBanterDK/Windows-Server-2019)
 
 <h2>👨‍💻 System Maintenance and Diagnostics Projects:</h2>
+
 <b><i></b></i>
-- <b>Active Directory Configuration</b>
-  - [Windows Server 2019](https://github.com/ByteBanterDK/Windows-Server-2019)
-- <b>System File Checker (sfc /scannow)</b>: Used to scan and repair corrupted system files. 
   - [SFC](https://github.com/ByteBanterDK/SFC)
-- <b>DISM Commands</b>: Explored and utilized various DISM commands for system image maintenance and repair.
+- <b>DISM Commands</b>:
   - [DISM](https://github.com/YourRepositoryNameHere/DISM)
-- <b>Windows Full Security Scan</b>: Performed comprehensive security scans on Windows systems using built-in security tools.
+- <b>Windows Full Security Scan</b>:
   - [Windows Security Scan](https://github.com/ByteBanterDK/WinFullScan)
-- <b>Microsoft Malicious Software Removal Tool (MRT)</b>: Conducted scans and removal of malicious software from Windows systems using MRT.
+- <b>Microsoft Malicious Software Removal Tool (MRT)</b>: 
   - [MRT](https://github.com/ByteBanterDK/SecureScanM)
 
 <h2>👨‍💻 System and Device Configuration Projects:</h2>
