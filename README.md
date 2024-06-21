@@ -28,9 +28,9 @@
 
 <b><i></b></i>
 - <b>PC Performance Optimisation</b>:
-  - [SFC](https://github.com/ByteBanterDK/System-Performance-Tunin)
+  - [Windows](https://github.com/ByteBanterDK/System-Performance-Tunin)
 - <b>iPhone Performance Optimisation</b>:
-  - [DISM](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
+  - [Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
 
 
 <h2> 🤳 Connect with me:</h2>
