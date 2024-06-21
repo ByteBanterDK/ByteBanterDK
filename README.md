@@ -15,6 +15,7 @@
 <h2>👨‍💻 System Maintenance and Diagnostics Projects:</h2>
 
 <b><i></b></i>
+-<b>System File Checker</b>:
   - [SFC](https://github.com/ByteBanterDK/SFC)
 - <b>DISM Commands</b>:
   - [DISM](https://github.com/YourRepositoryNameHere/DISM)
@@ -24,25 +25,15 @@
   - [MRT](https://github.com/ByteBanterDK/SecureScanM)
 
 <h2>👨‍💻 System and Device Configuration Projects:</h2>
-- <b>PC Performance Optimization</b>: [Windows]
-(https://github.com/ByteBanterDK/System-Performance-Tuning)
-- <b>iPhone Performance Optimization</b>: [Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
+
+<b><i></b></i>
+- <b>PC Performance Optimisation</b>:
+ -[Windows](https://github.com/ByteBanterDK/System-Performance-Tuning)
+- <b>iPhone Performance Optimization</b>:
+ - [Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
 
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="ByteBanterDK | Gmail" width="22px" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png"/>TechExpertDK@gmail.com
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
