@@ -25,9 +25,9 @@
 - <b>PC Performance Optimization</b>: [Windows](https://github.com/ByteBanterDK/System-Performance-Tuning)
 - <b>iPhone Performance Optimization</b>: [Apple](https://github.com/ByteBanterDK/iPhone-Performance-Optimisation)
 
-
- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2>👨‍💻 System Maintenance and Diagnostics Projects:</h2>
+ <b>System File Checker (sfc /scannow)</b>:</b>
+  - [SFC](https://github.com/ByteBanterDK/SFC)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
